@@ -1,0 +1,11 @@
+button.calc-btn {
+    height: 100px;
+    font-size: 32px;
+    border: 2px solid #dff9fb;
+    background-color: #ffffff;
+    color: #555;
+
+    &:focus {
+        outline: 0;
+    }
+}
